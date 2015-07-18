@@ -1,1 +1,2 @@
-1Creating a new branch is quick.& example.
+
+1Creating a new branch is quick.& and example.
